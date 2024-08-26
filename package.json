@@ -1,14 +1,22 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command line application that generates professional README.md files",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dsien/CodeMuse-Read.git."
+    },
+  "author": "John Paul D'Aconti",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dsien/CodeMuse-Read/issues"
+  },
+  "homepage": "https://github.com/Dsien/CodeMuse-Read#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   }
